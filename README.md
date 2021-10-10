@@ -1,4 +1,6 @@
-### Hi there 👋
+I am a CS student currently redefining my theoretical basis. 
+
+You can find more projects [here](https://gitlab.inf.unibz.it/users/ahl-berto/contributed).
 
 <!--
 **defending1/defending1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
