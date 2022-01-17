@@ -45,7 +45,7 @@ Financed by Regas + Adecco that purchased the
 		commuting expenses.
 - Done by my classroom, where I coordinated the teams and worked as a 
 		React developer.
-- won 1st prize of I.S Archimede Project day (my high school) in 2019
+- Won 1st prize of I.S Archimede Project day (my high school) in 2019
 
 
 You can find more projects [here](https://gitlab.inf.unibz.it/users/ahl-berto/contributed).
