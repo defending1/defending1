@@ -1,9 +1,11 @@
-I enjoy following extra courses in mathematics alongside my CS program.
-My passion for computers is a continuous source of new side interests ethical
-and philosophical questions, 
-now is a crossroad between literature, mathematics, philosophy, fountain pens, and an active, 
+# On me:
+- Bachelor student in computer science at Unibz. 
+- Currently attending an exchange year at Helsinki University.
+- interested about literature, mathematics, philosophy, fountain pens, and an active, 
 optimized and healthy lifestyle.
 
+
+# Recent works
 Moveaid a web service 
 that helps to organize free transportation to medical clinics and other points of interest in the city
 of Bozen, inspired from an existing service that needs digitization. 
@@ -25,6 +27,7 @@ The project is a sandbox to practice Java techniques and writing clean code,
 providing the highest coverage of testing and documentation as possible, with
 better use to version control. 
 
+# Less recent works
 [Calor](https://github.com/calorifero/app), a smart thermometer using a IoT sensor that helps the energy provider Regas to spot energy consumption patterns in customer’s houses.
 The project was developed for an Espressif ESP-32 equipped with a thermometer. This
 		control unit
