@@ -2,8 +2,6 @@ Bachelor student in computer science at Unibz.
 Currently summer intern at [NCAR](https://www.helsinki.fi/en/researchgroups/nokia-center-for-advanced-research).
 
 # Recent projects 
-Currently cracking DSA problems and writing portfolio for Models of computations & set theory (coming
-	soon).
 
 [IoT coursework](https://github.com/defending1/IoT-coursework)
 
