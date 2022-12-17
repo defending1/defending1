@@ -1,5 +1,4 @@
-Bachelor student in computer science at Unibz. 
-Currently summer intern at [NCAR](https://www.helsinki.fi/en/researchgroups/nokia-center-for-advanced-research).
+Bachelor student in maths at the [University of Pisa](https://www.dm.unipi.it/en/). 
 
 # Recent projects 
 
